@@ -1,2 +1,9 @@
-# M0-BayesianModeling
-Bayesian Modeling(Prof. Yeo-Jin Chung), Department of AI, Big Data &amp; Management, KMU
+# Bayesian Modeling
+
+- Prof. [Yeo-Jin Chung](https://github.com/ychungkmu)
+
+- 0th Semester, Spring Semester 2024
+
+</br>
+
+## Concept
