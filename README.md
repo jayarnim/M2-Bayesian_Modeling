@@ -15,7 +15,7 @@
   - Monte Carlo Simulation
   - Rejection Sampling
   - Markov Chain Monte Carlo
-  - Model for Change Point Detection in Text Messaging Usage Patterns
+  - Change Point Detection in Text Messaging Usage Patterns
 
 - [Prior Prob. Dist.](https://velog.io/@jayarnim/Prior-Prob.-Dist)
 
