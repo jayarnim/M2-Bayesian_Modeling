@@ -10,7 +10,6 @@
 
 - [Bayesian Framework](https://velog.io/@jayarnim/Bayesian-Framework)
   - Parameter Estimation Through Coin Toss Experiment
-  - Model for Change Point Detection in Text Messaging Usage Patterns
 
 - [Monte Carlo Simulation](https://velog.io/@jayarnim/Monte-Carlo-Simulation)
   - Monte Carlo Simulation
