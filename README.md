@@ -7,3 +7,13 @@
 </br>
 
 ## Concept
+
+- [Bayesian Framework](https://velog.io/@jayarnim/Bayesian-Framework)
+
+- [Monte Carlo Simulation](https://velog.io/@jayarnim/Monte-Carlo-Simulation)
+
+- [Prior Prob. Dist.](https://velog.io/@jayarnim/Prior-Prob.-Dist)
+
+- [Prob. Dist. Functions](https://velog.io/@jayarnim/Prob.-Dist.-Functions-xzvti7qd)
+
+- [Bayes Estimator](https://velog.io/@jayarnim/Bayes-Estimator)
