@@ -10,13 +10,13 @@
 
 - [Bayesian Framework](https://velog.io/@jayarnim/Bayesian-Framework)
   - Parameter Estimation Through Coin Toss Experiment
-  - Change point Model in Text Messaging Usage Patterns
+  - Model for Change Point Detection in Text Messaging Usage Patterns
 
 - [Monte Carlo Simulation](https://velog.io/@jayarnim/Monte-Carlo-Simulation)
   - Monte Carlo Simulation
   - Rejection Sampling
   - Markov Chain Monte Carlo
-  - Change point Model in Text Messaging Usage Patterns applying MCMC
+  - Model for Change Point Detection in Text Messaging Usage Patterns applying MCMC
 
 - [Prior Prob. Dist.](https://velog.io/@jayarnim/Prior-Prob.-Dist)
 
