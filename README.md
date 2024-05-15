@@ -21,3 +21,9 @@
 
 - [Bayes Estimator](https://velog.io/@jayarnim/Bayes-Estimator)
   - The Price is Right
+
+- [Bayesian A/B Test]()
+
+- [Bayesian Regression]()
+
+- [Multi-Armed Bandit]()
