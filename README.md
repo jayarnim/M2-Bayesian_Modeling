@@ -33,3 +33,4 @@
   - A/B Test to Determine Which Website Design Achieves a Higher Conversion Rate
 
 - [Multi-Armed Bandit]()
+  - Slot Machine Simulation
