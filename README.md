@@ -22,12 +22,14 @@
 - [Prob. Dist. Functions](https://velog.io/@jayarnim/Prob.-Dist.-Functions-qnhd3e7d)
 
 - [Bayes Estimator](https://velog.io/@jayarnim/Bayes-Estimator)
-  - The Price is Right
-
-- [Bayesian A/B Test]()
-  - A/B Test to Determine Which Website Design Achieves a Higher Conversion Rate
+  - The Price is Right!
 
 - [Bayesian Regression]()
   - Bayesian Regression Analysis on the Impact of Advertising Strategy on Sales
+  - Bayesian Regression Analysis on Financial Prediction
+  - Bayesian Regression Analysis on Demand Prediction
+
+- [Bayesian A/B Test]()
+  - A/B Test to Determine Which Website Design Achieves a Higher Conversion Rate
 
 - [Multi-Armed Bandit]()
