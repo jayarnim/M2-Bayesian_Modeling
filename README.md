@@ -4,33 +4,33 @@
 
 - 0th Semester, Spring Semester 2024
 
+- [Concept](https://jayarnim.github.io/categories/bayesian-modeling/)
+
 </br>
 
-## Concept
+## Practice
 
-- [Bayesian Framework](https://velog.io/@jayarnim/Bayesian-Framework)
+- **Bayesian Framework**
   - Parameter Estimation Through Coin Toss Experiment
 
-- [Monte Carlo Simulation](https://velog.io/@jayarnim/Monte-Carlo-Simulation)
+- **Prior Prob. Dist. Determination**
+
+- **Posterior Prob. Dist. Estimation**
   - Monte Carlo Simulation
   - Rejection Sampling
   - Markov Chain Monte Carlo
   - Change Point Detection in Text Messaging Usage Patterns
 
-- [Prior Prob. Dist.](https://velog.io/@jayarnim/Prior-Prob.-Dist)
-
-- [Prob. Dist. Functions](https://velog.io/@jayarnim/Prob.-Dist.-Functions-qnhd3e7d)
-
-- [Bayes Estimator](https://velog.io/@jayarnim/Bayes-Estimator)
+- **Bayes Action**
   - The Price is Right!
 
-- [Bayesian Regression]()
+- **Bayesian A/B Test**
+  - A/B Test to Determine Which Website Design Achieves a Higher Conversion Rate
+
+- **Multi-Armed Bandit**
+  - Slot Machine Simulation
+
+- **Bayesian Regression**
   - Bayesian Regression Analysis on the Impact of Advertising Strategy on Sales
   - Bayesian Regression Analysis on Financial Prediction
   - Bayesian Regression Analysis on Demand Prediction
-
-- [Bayesian A/B Test]()
-  - A/B Test to Determine Which Website Design Achieves a Higher Conversion Rate
-
-- [Multi-Armed Bandit]()
-  - Slot Machine Simulation
