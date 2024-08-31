@@ -2,7 +2,7 @@
 
 - Prof. [Yeo-Jin Chung](https://github.com/ychungkmu)
 
-- 0th Semester, Spring Semester 2024
+- 2nd Semester, Spring Semester 2024
 
 - [Concept](https://jayarnim.github.io/categories/bayesian-modeling/)
 
