@@ -13,8 +13,6 @@
 - **Bayesian Framework**
   - Parameter Estimation Through Coin Toss Experiment
 
-- **Prior Prob. Dist. Determination**
-
 - **Posterior Prob. Dist. Estimation**
   - Monte Carlo Simulation
   - Rejection Sampling
